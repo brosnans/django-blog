@@ -1,3 +1,5 @@
 *.sqlite3
 *.pyc
+.~c9
 _pychache_/
+env.py
